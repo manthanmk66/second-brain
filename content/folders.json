@@ -1,0 +1,101 @@
+[
+  {
+    "id": "ai-llms",
+    "name": "AI & LLMs",
+    "color": "#7c5cff",
+    "icon": "neural",
+    "blurb": "How models produce text, how to prompt them, and how agents get built on top.",
+    "next": [
+      "Prompting that holds up",
+      "Embeddings and vector search",
+      "RAG from scratch",
+      "How agents call tools",
+      "Fine-tuning vs prompting"
+    ]
+  },
+  {
+    "id": "solana",
+    "name": "Solana & On-chain",
+    "color": "#14a67c",
+    "icon": "blocks",
+    "blurb": "Accounts, programs, fees and the numbers that move the chain.",
+    "next": [
+      "Wallets and keypairs",
+      "SPL tokens and mints",
+      "Writing a program with Anchor",
+      "Reading on-chain data",
+      "Validators and staking"
+    ]
+  },
+  {
+    "id": "system-design",
+    "name": "System Design",
+    "color": "#e07a2e",
+    "icon": "boxes",
+    "blurb": "How big apps stay fast, and stay up, when a lot of people show up at once.",
+    "next": [
+      "Load balancers",
+      "SQL vs NoSQL",
+      "Queues and background jobs",
+      "Rate limiting",
+      "Design a URL shortener"
+    ]
+  },
+  {
+    "id": "web-3d",
+    "name": "3D & Motion on the Web",
+    "color": "#2f86e0",
+    "icon": "cube",
+    "blurb": "Three.js, shaders and animation that runs inside a browser tab.",
+    "next": [
+      "Lights and shadows",
+      "Loading GLTF models",
+      "Shaders 101",
+      "Scroll-driven animation",
+      "Keeping 60fps on phones"
+    ]
+  },
+  {
+    "id": "mobile",
+    "name": "React Native",
+    "color": "#e0457a",
+    "icon": "phone",
+    "blurb": "Shipping real iOS and Android apps from one codebase.",
+    "next": [
+      "Expo Router navigation",
+      "State: Zustand vs Context",
+      "Animations with Reanimated",
+      "Offline storage",
+      "Publishing to the stores"
+    ]
+  },
+  {
+    "id": "content",
+    "name": "Content Craft",
+    "color": "#c99510",
+    "icon": "play",
+    "blurb": "Hooks, retention, and why some reels get watched to the end.",
+    "next": [
+      "Headlines with stakes",
+      "Captions people actually read",
+      "Carousel structure",
+      "Reading your analytics",
+      "Covers that earn the tap"
+    ]
+  },
+  {
+    "id": "mcp-agent-clis",
+    "name": "MCP & Agent CLIs",
+    "color": "#0e9aa7",
+    "icon": "code",
+    "blurb": "Building the servers and command-line tools that let Claude, ChatGPT and coding agents use your product.",
+    "next": [
+      "MCP Apps: UI inside the chat",
+      "Tasks for long-running jobs",
+      "Hosting a remote MCP server",
+      "Evals for tool use",
+      "Agent Skills in depth",
+      "Publishing to the MCP Registry"
+    ]
+  }
+]
